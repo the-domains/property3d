@@ -1,0 +1,28 @@
+name: property3d
+favicon: null
+layout_spectrum: 0.5987725895829499
+typography_spectrum: 0.5458382545039058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.25381018756888807
+  lightness: 0.8293447343166918
+  saturation: 0.4259669224265963
+  rhythmicContrast: 0.877910686424002
+purpose: []
